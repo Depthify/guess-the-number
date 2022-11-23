@@ -8,10 +8,10 @@ In the game, your computer will choose a random number, and you will need to gue
 ## How to play?
 `I` Download and install python from https://www.python.org/downloads/ (version 3.10 or above).
 
-`II` Download the **config.py** file.
+`II` Download the **random.py** file.
 
 `III` Open command prompt (run > cmd) & move to the directory where the project file has been stored.
 
-`IV` Run **__python config.py__** & follow the steps.
+`IV` Run **__python random.py__** & follow the steps.
 
 `V` You're good to go! :)
