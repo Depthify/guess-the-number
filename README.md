@@ -14,3 +14,4 @@ In the game, your computer will choose a random number, and you will need to gue
 `IV` Run **__python random-g.py__** & follow the steps.
 
 `V` You're good to go! :)
+![WindowsTerminal_cfPtyeNT0H](https://user-images.githubusercontent.com/107516153/203759372-01e55d32-063e-4660-8902-d4ffa4e237d8.gif)
